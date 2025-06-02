@@ -33,7 +33,7 @@ The cryptocurrency data Explorer app is an application that allows users to sear
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://david30-maker.github.io/react-capstone1/)
+- [Live Demo Link](https://https://davidigbo.github.io/react-capstone1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
